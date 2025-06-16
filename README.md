@@ -1,4 +1,4 @@
-self taught backend and frontend developer for Node / cpython / html&css / nim
+self taught fullstack developer for Node / cpython / html&css / nim / mono
 
 https://github.com/Jerryslang/jrpcPy
 
