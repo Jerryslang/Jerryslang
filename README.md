@@ -9,3 +9,7 @@ https://github.com/Jerryslang/MClaunch
 https://github.com/Jerryslang/jrpcPy
 
 https://github.com/Jerryslang/dotfiles
+
+contributed to:
+
+https://github.com/openfrontio/OpenFrontIO
