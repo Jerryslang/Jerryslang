@@ -11,3 +11,5 @@ im a linux user that daily drives openSUSE tumbleweed as of 23-06-2025
 
 ## Contributions
 https://github.com/openfrontio/OpenFrontIO
+
+https://github.com/SynthLauncher/SynthLauncher
