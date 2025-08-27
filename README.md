@@ -1,4 +1,4 @@
-# Noface1200
+# H1Hollow
 im a linux user that daily drives openSUSE tumbleweed as of 23-06-2025
 
 ![desktop](https://i.imgur.com/3GdSP5n.png)
